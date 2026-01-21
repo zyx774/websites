@@ -1,9 +1,9 @@
-# 下载
+#伊兹伊恩德罗伊德 F-Droid 软件库移动到页面上的下一个交互元素。
 
-[Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
+[下载](https://play.google.com/商店/apps/details?id=moe.shizuku.privileged.api)
 
-[GitHub Release](https://github.com/RikkaApps/Shizuku/releases)
+[谷歌应用商店](https://github.com/RikkaApps/Shizuku/releases)
 
-[Coolapk](https://www.coolapk.com/apk/moe.shizuku.privileged.api)
+[GitHub 发布版本](https://www.coolapk.com/apk/moe.shizuku.privileged.api)
 
-[IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api)
+[酷安网](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api)
